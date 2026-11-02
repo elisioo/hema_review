@@ -1,0 +1,9 @@
+{
+    "rewrites":[
+        {
+            "source":"/",
+            "destination":"hema_review.html"
+        }
+
+    ]
+}
